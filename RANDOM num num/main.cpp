@@ -20,6 +20,7 @@ int main () {
     int choice;
     while(choice!=99)
     {
+        
         Check(choice);
         MyChoice(choice);
     }
